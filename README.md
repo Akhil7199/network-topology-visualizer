@@ -10,7 +10,7 @@ This project is a simple interactive network topology visualization tool built w
 - Responsive and cross-browser
 
 ## Demo
-[View Live Demo](https://YOUR_GITHUB_USERNAME.github.io/network-topology-visualizer/)
+[View Live Demo](https://akhil7199.github.io/network-topology-visualizer/)
 
 ## Screenshot
 ![Screenshot](screenshot.png)
